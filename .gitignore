@@ -31,4 +31,10 @@ build/
 
 # Personal bank data — never commit real transaction files
 *.csv
-!​​​​​​​​​​​​​​​​
+!sample_bank_transactions.csv
+
+# Personal budget spreadsheets
+*.xlsx
+*.xls
+
+
